@@ -1,0 +1,12 @@
+/home/hellzhammer/Desktop/Kronus_Project/WebScraper/bin/Debug/net6.0/WebScraper.deps.json
+/home/hellzhammer/Desktop/Kronus_Project/WebScraper/bin/Debug/net6.0/WebScraper.dll
+/home/hellzhammer/Desktop/Kronus_Project/WebScraper/bin/Debug/net6.0/WebScraper.pdb
+/home/hellzhammer/Desktop/Kronus_Project/WebScraper/obj/Debug/net6.0/WebScraper.csproj.AssemblyReference.cache
+/home/hellzhammer/Desktop/Kronus_Project/WebScraper/obj/Debug/net6.0/WebScraper.GeneratedMSBuildEditorConfig.editorconfig
+/home/hellzhammer/Desktop/Kronus_Project/WebScraper/obj/Debug/net6.0/WebScraper.AssemblyInfoInputs.cache
+/home/hellzhammer/Desktop/Kronus_Project/WebScraper/obj/Debug/net6.0/WebScraper.AssemblyInfo.cs
+/home/hellzhammer/Desktop/Kronus_Project/WebScraper/obj/Debug/net6.0/WebScraper.csproj.CoreCompileInputs.cache
+/home/hellzhammer/Desktop/Kronus_Project/WebScraper/obj/Debug/net6.0/WebScraper.dll
+/home/hellzhammer/Desktop/Kronus_Project/WebScraper/obj/Debug/net6.0/refint/WebScraper.dll
+/home/hellzhammer/Desktop/Kronus_Project/WebScraper/obj/Debug/net6.0/WebScraper.pdb
+/home/hellzhammer/Desktop/Kronus_Project/WebScraper/obj/Debug/net6.0/ref/WebScraper.dll

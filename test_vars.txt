@@ -1,0 +1,15 @@
+FIN_TICKER_PRICE&quot;:&quot; -- to find the current stock value.
+EPS_RATIO-value 
+PE_RATIO-value
+ONE_YEAR_TARGET_PRICE-value
+BETA_5Y-value
+MARKET_CAP-value
+AVERAGE_VOLUME_3MONTH-value
+FIFTY_TWO_WK_RANGE-value
+DAYS_RANGE-value
+OPEN-value
+PREV_CLOSE-value
+D(ib) Fz(18px) -- title
+
+the above variables all work, cannot get the volume from the html however.
+there are a few changes that still need to be made but everything works very well.
